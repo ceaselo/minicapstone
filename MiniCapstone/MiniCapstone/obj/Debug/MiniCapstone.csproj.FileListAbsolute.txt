@@ -1,0 +1,6 @@
+C:\Users\alliyah\source\repos\MiniCapstone\MiniCapstone\obj\Debug\MiniCapstone.csproj.AssemblyReference.cache
+C:\Users\alliyah\source\repos\MiniCapstone\MiniCapstone\obj\Debug\MiniCapstone.Form1.resources
+C:\Users\alliyah\source\repos\MiniCapstone\MiniCapstone\obj\Debug\MiniCapstone.ManuPage.resources
+C:\Users\alliyah\source\repos\MiniCapstone\MiniCapstone\obj\Debug\MiniCapstone.MenuPage.resources
+C:\Users\alliyah\source\repos\MiniCapstone\MiniCapstone\obj\Debug\MiniCapstone.RegisterPage.resources
+C:\Users\alliyah\source\repos\MiniCapstone\MiniCapstone\obj\Debug\MiniCapstone.csproj.GenerateResource.cache
